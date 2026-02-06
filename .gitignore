@@ -1,0 +1,33 @@
+# Standard Git ignore patterns
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+ENV/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Node.js modules
+node_modules/
+
+# Compiled C/C++ files
+*.o
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
